@@ -1,4 +1,4 @@
-public class void
+private class void
 {
 static main
 
